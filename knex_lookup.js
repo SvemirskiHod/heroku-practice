@@ -36,5 +36,5 @@ knex
     console.log(err);
   });
 
-  knex.destroy();
+knex.destroy();
 
